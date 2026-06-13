@@ -10,7 +10,7 @@ This project predicts house prices using machine learning regression models.
 - Evaluation using MAE and R² score
 
  🤖 Model Used
-- Random Forest / Linear Regression
+- Linear Regression
 
 📊 Results
 - MAE: ~48,000
